@@ -1,0 +1,1 @@
+# Big-Tech-Momentum-Strategy
