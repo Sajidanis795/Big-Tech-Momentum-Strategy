@@ -1,4 +1,4 @@
-# Big Tech Momentum Strategie
+# Big Tech Momentum-Strategie
 Dieses Repository enthält Python-Code, der eine einfache Momentum-Investitionsstrategie umsetzt, die auf Big-Tech-Aktien ausgerichtet ist. Die Strategie basiert auf der Idee des Momentum-Investierens, das den Kauf von Aktien beinhaltet, die im Preis gestiegen sind, in der Erwartung, dass der Trend anhalten wird.
 
 # Überblick
